@@ -9,6 +9,7 @@ public class Main {
         
         if(yolcu.Cikis_yasagi()==true){
             System.out.println("Çıkış yasağınız bulunuyor********");
+            System.out.println("----------------------");
             
         }
         else{
